@@ -1,0 +1,9 @@
+[package]
+name = "hello_rust"
+version = "0.1.0"
+authors = ["Elliot Shin <wodshin@gmail.com>"]
+
+[dependencies]
+websocket = "0.20.2"
+futures = "*"
+tokio-core = "*"
